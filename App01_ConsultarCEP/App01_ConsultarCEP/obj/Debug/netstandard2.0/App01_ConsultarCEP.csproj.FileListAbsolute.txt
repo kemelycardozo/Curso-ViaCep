@@ -10,3 +10,14 @@ C:\curso\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\nets
 C:\curso\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\XamlC.stamp
 C:\curso\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.dll
 C:\curso\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.pdb
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.deps.json
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.dll
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.pdb
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csprojAssemblyReference.cache
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfoInputs.cache
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfo.cs
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.dll
+C:\git\curso-udemy\Curso-ViaCep\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.pdb
